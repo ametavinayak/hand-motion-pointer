@@ -34,7 +34,7 @@ Transform your hand into a virtual mouse with intuitive gestures! A Python-based
 # 🚀 Usage
 - **Run the application**:
     ```bash
-    python hand_pointer.py
+    python motion.py
 
 # 📚 Documentation
 - Dependencies: See requirements.txt
